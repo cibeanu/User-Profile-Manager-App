@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 04</string>
+    <string name="name_field">Enter Name</string>
+    <string name="email_field">Enter Email</string>
+    <string name="age_field">Enter Age</string>
+    <string name="country_field">N/A</string>
+    <string name="dob_field">N/A</string>
+
+
+</resources>
